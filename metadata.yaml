@@ -1,0 +1,33 @@
+_repo: La-Robe-brod-e-d-argent_31137
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Maryan, M.
+    aliases:
+    - Deschard, Marie
+    - Cadiou, Marie Rosalie Viginie
+    birthdate: 1847
+    deathdate: 1927
+    gutenberg_agent_id: '35020'
+    url: http://www.gutenberg.org/2009/agents/35020
+    wikipedia: http://fr.wikipedia.org/wiki/M._Maryan
+description: ''
+gutenberg_bookshelf:
+- FR Femmes
+- FR Littérature
+gutenberg_issued: '2010-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31137'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Fiction'
+title: La Robe brodée d'argent
+url: http://www.gutenberg.org/ebooks/31137
