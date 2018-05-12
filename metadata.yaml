@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35020
     wikipedia: http://fr.wikipedia.org/wiki/M._Maryan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31137#La-Robe-brod-e-d-argent
 gutenberg_bookshelf:
 - FR Femmes
 - FR Littérature
